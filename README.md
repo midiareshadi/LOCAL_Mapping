@@ -1,5 +1,6 @@
 ## LOCAL mapping algorithm
-The paper in IEEE Xplorer: [link](https://ieeexplore.ieee.org/document/9599862).
+The paper in IEEE Xplorer: [link](https://ieeexplore.ieee.org/document/9599862)
+The simulation dataset in Yaml format for the Timeloop-Accelergy simulator is accessible at [link](https://github.com/midiareshadi/simulator_config/tree/main/workload)
 ### *Paper citation*
 ```
 @inproceedings{reshadi2021local,
