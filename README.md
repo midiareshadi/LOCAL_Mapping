@@ -1,5 +1,5 @@
 ## LOCAL mapping algorithm
-The full-text is this [link](https://ieeexplore.ieee.org/document/9599862).
+The paper in IEEE Xplorer: [link](https://ieeexplore.ieee.org/document/9599862).
 ### *Paper citation*
 ```
 @inproceedings{reshadi2021local,
